@@ -18,7 +18,7 @@ export function ConfirmTripModal({
                         <h2 className="text-lg font-semibold">Confirmar criação de viagem</h2>
 
                         <button type="button" onClick={closeConfirmTripModal}>
-                            <X className="size-5 text-zinc-400" />''
+                            <X className="size-5 text-zinc-400" />
                         </button>
                     </div>
                     <p className="text-sm text-zinc-400">
